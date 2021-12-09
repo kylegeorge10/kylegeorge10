@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylegeorge10
 - 👀 I’m interested in everything related to building things
-- 🌱 I’m currently learning Java and SwiftUI
+- 🌱 I’m currently learning C and Linux
 - 📫 How to reach me: kyle.kylegeorge@gmail.com
 
 <!---
