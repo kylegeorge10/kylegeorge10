@@ -30,7 +30,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 - 🏛️: Student at Penn State University
 - 🎓: Majoring in Computer Science with minors in Computer Engineering, CyberSecurity,cand Mathematics
 - 🔋: Currently learning firmware programming for micorcontrollers used in PSFR's EV
-- ⏳: In my free time, I like to watch F1🏎️, play video games🕹️, and work on cars
+- ⏳: In my free time, I like to watch F1🏎️, play video games🕹️, and work on cars🧰
   </a>
 - 📫: Shoot me an email! <a href="mailto:kyle.kylegeorge@gmail.com">
     <img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b" alt="Shoot me an email" width="30px"/> 
