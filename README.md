@@ -49,7 +49,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" />
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" />
 
