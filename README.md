@@ -53,7 +53,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" />
 
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://en.wikipedia.org/wiki/Arduino#/media/File:Arduino_Logo_Registered.svg" />
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" />
 
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
 
