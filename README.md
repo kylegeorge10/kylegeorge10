@@ -47,7 +47,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png"/>
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" />
 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" />
 
