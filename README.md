@@ -28,7 +28,7 @@ Hello!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 ### 👨‍💻 About me:
 - ✈️: Pennsylvania native, recent California resident
 - 🏛️: Student at Penn State University
-- 🎓: Majoring in Computer Science with minors in Computer Engineering, CyberSecurity,cand Mathematics
+- 🎓: Majoring in Computer Science with minors in Computer Engineering, CyberSecurity, and Mathematics
 - 🔋: Currently learning firmware programming for micorcontrollers used in PSFR's EV
 - ⏳: In my free time, I like to watch F1🏎️, play video games🕹️, and work on cars🧰
   </a>
